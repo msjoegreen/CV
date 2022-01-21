@@ -5,6 +5,8 @@ body {
     margin: auto;
 }
 
+
+
 h1 {
     font-size: 3em;
     letter-spacing: .6em;
@@ -27,6 +29,10 @@ main {
     margin-top: 3em;
 }
 
+#mainLeft {
+    border-right: 1px solid lightgray;
+ }
+ 
 header {
     text-align: center;
     margin: auto 2em;
